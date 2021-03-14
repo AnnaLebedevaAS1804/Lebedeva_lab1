@@ -1,0 +1,18 @@
+# ninja log v5
+1	2084	637355269	CMakeFiles/rt_sample_new.dir/Geometry.cpp.obj	c5153664f8109d07
+13	2063	637355269	CMakeFiles/rt_sample_new.dir/Material.cpp.obj	f4cfa77835660fd4
+10	2931	637351957	CMakeFiles/rt_sample_new.dir/Camera.cpp.obj	be7dfec02ae0e155
+0	1486	637368287	CMakeFiles/rt_sample_new.dir/main.cpp.obj	6522817f6cd24843
+16	2014	637368038	CMakeFiles/rt_sample_new.dir/RayTracer.cpp.obj	de4d1d7f97c903b1
+1486	2238	637368288	rt_sample_new.exe	6bef709108996ea6
+1	1144	637368037	CMakeFiles/rt_sample_new.dir/LightSourse.cpp.obj	973648c6e35b5f45
+2	1882	637368633	CMakeFiles/rt_sample_new.dir/main.cpp.obj	6522817f6cd24843
+1883	2514	637368633	rt_sample_new.exe	6bef709108996ea6
+1	1714	637368798	CMakeFiles/rt_sample_new.dir/main.cpp.obj	6522817f6cd24843
+1715	2439	637368798	rt_sample_new.exe	6bef709108996ea6
+1	1644	637368881	CMakeFiles/rt_sample_new.dir/main.cpp.obj	6522817f6cd24843
+1645	2413	637368882	rt_sample_new.exe	6bef709108996ea6
+1	1893	637368980	CMakeFiles/rt_sample_new.dir/main.cpp.obj	6522817f6cd24843
+1893	2571	637368980	rt_sample_new.exe	6bef709108996ea6
+1	1645	637369065	CMakeFiles/rt_sample_new.dir/main.cpp.obj	6522817f6cd24843
+1646	2272	637369065	rt_sample_new.exe	6bef709108996ea6

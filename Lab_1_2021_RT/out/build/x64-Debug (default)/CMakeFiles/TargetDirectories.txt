@@ -1,0 +1,3 @@
+C:/Users/lebed/Downloads/2021-graphics-rt-main/2021-graphics-rt-main/Lab_1_2021_RT/out/build/x64-Debug (default)/CMakeFiles/rt_sample_new.dir
+C:/Users/lebed/Downloads/2021-graphics-rt-main/2021-graphics-rt-main/Lab_1_2021_RT/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/lebed/Downloads/2021-graphics-rt-main/2021-graphics-rt-main/Lab_1_2021_RT/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
